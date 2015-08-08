@@ -1,5 +1,10 @@
-import fresh_tomatoes
-import media
+#!/usr/bin/env python
+
+"""entertainment_centre.py: Description of what details of various instances ."""
+
+
+import fresh_tomatoes  # Contains the main function definitons and html code.  
+import media           # Contains the Class definition, based on which the instances are created.
 
 spectre = media.Movie("Spectre",
 					  "https://www.youtube.com/watch?v=l9hMaqdNzz8",
