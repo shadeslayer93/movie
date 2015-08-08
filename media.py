@@ -1,6 +1,9 @@
 import webbrowser
 
+
 class Movie():
+
+	
     """This is the Movie template based on which other 
        instances are created !! """
 
